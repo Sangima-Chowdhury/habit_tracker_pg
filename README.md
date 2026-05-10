@@ -20,3 +20,4 @@ A Flask backend project connected to a PostgreSQL database. This project was bui
 ## What I Learned
 This project helped me understand how Flask connects to PostgreSQL, how database models work, how primary keys identify records, and how production-style databases differ from SQLite.
 
+<img width="1352" height="878" alt="Screenshot 2026-05-10 at 11 45 09" src="https://github.com/user-attachments/assets/45a66e72-aa8e-4c7c-876e-8b8111925099" />
