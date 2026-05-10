@@ -20,5 +20,3 @@ A Flask backend project connected to a PostgreSQL database. This project was bui
 ## What I Learned
 This project helped me understand how Flask connects to PostgreSQL, how database models work, how primary keys identify records, and how production-style databases differ from SQLite.
 
-## GitHub
-https://github.com/Sangima-Chowdhury/habit_tracker_pg
